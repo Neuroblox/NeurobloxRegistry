@@ -4,3 +4,4 @@ repo = "git@github.com:Neuroblox/NeurobloxRegistry.git"
 description = "The registry for Neuroblox.jl and Neuroblox.jl related packages"
 
 [packages]
+769b91e5-4c60-41ee-bfae-153c84203cb2 = { name = "Neuroblox", path = "N/Neuroblox" }
