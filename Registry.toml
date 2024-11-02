@@ -1,0 +1,6 @@
+name = "NeurobloxRegistry"
+uuid = "b1d64cd1-75fe-41af-8099-45600c0e3392"
+repo = "git@github.com:Neuroblox/NeurobloxRegistry.git"
+description = "The registry for Neuroblox.jl and Neuroblox.jl related packages"
+
+[packages]
