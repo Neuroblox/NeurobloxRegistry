@@ -37,4 +37,4 @@ using Pkg
 pkg"registry remove NeurobloxRegistry"
 ```
 
-If for some reason that does not work, you can remove the file `NeurobloxRegistry` from your `.julia/registries` folder manually. 
+If for some reason that does not work, you can remove the file `NeurobloxRegistry` from your `.julia/registries` folder manually (see https://docs.julialang.org/en/v1/base/constants/#Base.DEPOT_PATH for more info on the `.julia` folder).
