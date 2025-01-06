@@ -1,6 +1,6 @@
 # NeurobloxRegistry
 
-#### Adding the Neuroblox Registry
+### Adding the Neuroblox Registry
 
 This is the [registry](https://pkgdocs.julialang.org/v1/registries/) that allows you to easily install [Neuroblox.jl](https://github.com/Neuroblox/Neuroblox.jl) in Julia.
 
@@ -10,8 +10,15 @@ To add the NeurobloxRegistry simply open julia and execute
 using Pkg
 pkg"registry add https://github.com/Neuroblox/NeurobloxRegistry"
 ```
+and then the NeurobloxRegistry will be installed and active on your machine. 
 
-and then the NeurobloxRegistry will be installed and active on your machine. Once this is done, you'll be able to add Neuroblox.jl just like any other julia package, e.g.
+If this is the first time you have used Julia on your current machine, you *may* also need to add the [General Registry](https://github.com/JuliaRegistries/General) which can be done with
+
+``` julia
+pkg"registry add General"
+```
+
+Once this is done, you'll be able to add Neuroblox.jl just like any other julia package, e.g.
 
 ``` julia
 using Pkg
@@ -28,7 +35,9 @@ pkg> add Neuroblox
 ```
 
 
-#### Removing the Neuroblox registry
+
+
+### Removing the Neuroblox registry
 
 If you need to remove the NeurobloxRegistry for whatever reason, you can run
 
