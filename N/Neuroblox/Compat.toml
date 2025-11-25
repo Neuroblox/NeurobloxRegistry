@@ -1,4 +1,8 @@
-[0]
+["0 - 0.5.7"]
+GraphDynamics = "0.2.1 - 0.2"
+ModelingToolkit = "9.55"
+
+["0 - 0.6"]
 Accessors = "0.1.37 - 0.1"
 Combinatorics = "1"
 DSP = "0.7"
@@ -17,11 +21,16 @@ Reexport = "1"
 ToeplitzMatrices = "0.8"
 julia = "1.10.0 - 1"
 
-["0 - 0.5.7"]
-GraphDynamics = "0.2.1 - 0.2"
-ModelingToolkit = "9.55"
-
-["0.5.8 - 0"]
+["0.5.8 - 0.6"]
 GraphDynamics = "0.2.5 - 0.2"
 ModelingToolkit = "9.55.0 - 9.60"
 SymbolicUtils = "3.11.0 - 3"
+
+["0.7 - 0"]
+NeurobloxBase = "0.1"
+NeurobloxBasics = "0.1"
+NeurobloxDBS = "0.1"
+NeurobloxPharma = "0.1"
+NeurobloxSynapticBlox = "0.1"
+Reexport = "1.2.0 - 1"
+julia = "1.9.0 - 1"
