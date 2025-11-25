@@ -5,3 +5,4 @@ description = "The registry for Neuroblox.jl and Neuroblox.jl related packages"
 
 [packages]
 769b91e5-4c60-41ee-bfae-153c84203cb2 = { name = "Neuroblox", path = "N/Neuroblox" }
+c1a47a78-a13f-4f42-9de5-c5b922306e53 = { name = "NeurobloxBase", path = "N/NeurobloxBase" }
