@@ -1,0 +1,4 @@
+name = "NeurobloxPharma"
+uuid = "6d6291d7-c437-44bd-acf4-438a4f54bfaa"
+repo = "git@github.com:Neuroblox/Neuroblox.jl.git"
+subdir = "NeurobloxPharma"
