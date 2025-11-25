@@ -1,4 +1,4 @@
 name = "NeurobloxBasics"
 uuid = "6341abd9-5539-449d-87b3-7e81c4d50fb5"
-repo = "git@github.com:Neuroblox/Neuroblox.jl.git"
+repo = "https://github.com/Neuroblox/Neuroblox.jl"
 subdir = "NeurobloxBasics"
